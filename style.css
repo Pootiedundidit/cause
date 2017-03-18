@@ -16,3 +16,19 @@ p {
     font-size: 14px;
     font-family: "Arial", Helvetica, sans-serif;
 }
+
+body {
+    background-color: #FFFFF5;
+}
+h1 {
+    background-color: none;
+}
+
+div {
+    background-color: none;
+}
+
+p {
+    background-color: none;
+}
+/*add divs here for gallery*/
